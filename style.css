@@ -518,7 +518,7 @@ a:hover {
 
 #cssmenu {
     font-family: "Open Sans";
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 400;
     line-height: 43px;
     background: #2a92de;
@@ -529,8 +529,8 @@ a:hover {
 }
 
 #cssmenu > ul > li:first-child a {
-    padding-right: 47px !important;
-    padding-left: 47px;
+    padding-right: 0px !important;
+    padding-left: 40px;
 }
 
 #cssmenu.align-center > ul {
@@ -664,7 +664,7 @@ a:hover {
     border-bottom: 1px solid rgba(150, 150, 150, 0.15);
     padding: 11px 15px;
     width: 400px;
-    font-size: 14px;
+    font-size: 13px;
     text-decoration: none;
     color: #dddddd;
     font-weight: 600;
